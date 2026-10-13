@@ -112,7 +112,8 @@ struct TVHero: View {
             .padding(.bottom, 24)
         }
         .frame(maxWidth: .infinity)
-        .frame(height: 660)
+        // Short enough that the first rail, with each card's center and date, fits on the first screen.
+        .frame(height: 590)
         .clipped()
     }
 }
