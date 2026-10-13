@@ -1,0 +1,26 @@
+{
+  "collection": {
+    "version": "1.0",
+    "href": "https://images-api.nasa.gov/asset/sample-video-0004",
+    "items": [
+      {
+        "href": "http://images-assets.nasa.gov/video/sample-video-0004/sample-video-0004~orig.mp4"
+      },
+      {
+        "href": "http://images-assets.nasa.gov/video/sample-video-0004/sample-video-0004~mobile.mp4"
+      },
+      {
+        "href": "http://images-assets.nasa.gov/video/sample-video-0004/sample-video-0004~preview.mp4"
+      },
+      {
+        "href": "http://images-assets.nasa.gov/video/sample-video-0004/sample-video-0004~large.jpg"
+      },
+      {
+        "href": "http://images-assets.nasa.gov/video/sample-video-0004/sample-video-0004.srt"
+      },
+      {
+        "href": "http://images-assets.nasa.gov/video/sample-video-0004/metadata.json"
+      }
+    ]
+  }
+}

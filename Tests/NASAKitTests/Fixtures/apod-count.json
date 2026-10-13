@@ -1,0 +1,21 @@
+[
+  {
+    "date": "1995-06-16",
+    "explanation": "A sample of the oldest kind of entry.",
+    "hdurl": "http://apod.nasa.gov/apod/image/e_lens.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Sample First Entry",
+    "url": "http://apod.nasa.gov/apod/image/e_lens.gif"
+  },
+  {
+    "copyright": "\nJane Rivera\n",
+    "date": "2026-10-08",
+    "explanation": "A sample explanation of a spiral galaxy seen through a backyard telescope. The fixture keeps the shape of an APOD answer.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2610/SampleGalaxy_Rivera_4000.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Sample Spiral Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2610/SampleGalaxy_Rivera_1080.jpg"
+  }
+]

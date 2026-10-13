@@ -1,0 +1,116 @@
+[
+  {
+    "identifier": "20190530104359",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "image": "epic_1b_20190530104359",
+    "version": "03",
+    "centroid_coordinates": {
+      "lat": 8.432617,
+      "lon": -18.808594
+    },
+    "dscovr_j2000_position": {
+      "x": -1283061.502946,
+      "y": -669893.391453,
+      "z": -130240.808054
+    },
+    "lunar_j2000_position": {
+      "x": 6352.360316,
+      "y": -363153.946035,
+      "z": -144155.442719
+    },
+    "sun_j2000_position": {
+      "x": 46493430.596828,
+      "y": 131113626.546016,
+      "z": 56838229.513074
+    },
+    "attitude_quaternions": {
+      "q0": -0.36483,
+      "q1": -0.01853,
+      "q2": 0.01151,
+      "q3": 0.93077
+    },
+    "date": "2019-05-30 10:39:10",
+    "coords": {
+      "centroid_coordinates": {
+        "lat": 8.432617,
+        "lon": -18.808594
+      }
+    }
+  },
+  {
+    "identifier": "20190530011359",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "image": "epic_1b_20190530011359",
+    "version": "03",
+    "centroid_coordinates": {
+      "lat": 9.141602,
+      "lon": 158.540039
+    },
+    "dscovr_j2000_position": {
+      "x": -1282851.640564,
+      "y": -670364.153412,
+      "z": -130212.442993
+    },
+    "lunar_j2000_position": {
+      "x": 6352.360316,
+      "y": -363153.946035,
+      "z": -144155.442719
+    },
+    "sun_j2000_position": {
+      "x": 46493430.596828,
+      "y": 131113626.546016,
+      "z": 56838229.513074
+    },
+    "attitude_quaternions": {
+      "q0": -0.36483,
+      "q1": -0.01853,
+      "q2": 0.01151,
+      "q3": 0.93077
+    },
+    "date": "2019-05-30 00:13:59",
+    "coords": {
+      "centroid_coordinates": {
+        "lat": 9.141602,
+        "lon": 158.540039
+      }
+    }
+  },
+  {
+    "identifier": "20190530053359",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "image": "epic_1b_20190530053359",
+    "version": "03",
+    "centroid_coordinates": {
+      "lat": 8.774414,
+      "lon": 77.958984
+    },
+    "dscovr_j2000_position": {
+      "x": -1282959.123312,
+      "y": -670130.551221,
+      "z": -130226.664381
+    },
+    "lunar_j2000_position": {
+      "x": 6352.360316,
+      "y": -363153.946035,
+      "z": -144155.442719
+    },
+    "sun_j2000_position": {
+      "x": 46493430.596828,
+      "y": 131113626.546016,
+      "z": 56838229.513074
+    },
+    "attitude_quaternions": {
+      "q0": -0.36483,
+      "q1": -0.01853,
+      "q2": 0.01151,
+      "q3": 0.93077
+    },
+    "date": "2019-05-30 05:33:59",
+    "coords": {
+      "centroid_coordinates": {
+        "lat": 8.774414,
+        "lon": 77.958984
+      }
+    }
+  }
+]

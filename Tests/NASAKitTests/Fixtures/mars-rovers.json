@@ -1,0 +1,52 @@
+{
+  "rovers": [
+    {
+      "id": 5,
+      "name": "Curiosity",
+      "landing_date": "2012-08-06",
+      "launch_date": "2011-11-26",
+      "status": "active",
+      "max_sol": 4102,
+      "max_date": "2024-02-19",
+      "total_photos": 695670,
+      "cameras": [
+        {
+          "id": 51,
+          "name": "FHAZ",
+          "rover_id": 5,
+          "full_name": "Front Hazard Avoidance Camera"
+        },
+        {
+          "id": 52,
+          "name": "NAVCAM",
+          "rover_id": 5,
+          "full_name": "Navigation Camera"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Opportunity",
+      "landing_date": "2004-01-25",
+      "launch_date": "2003-07-07",
+      "status": "complete",
+      "max_sol": 5111,
+      "max_date": "2018-06-11",
+      "total_photos": 198439,
+      "cameras": [
+        {
+          "id": 61,
+          "name": "PANCAM",
+          "rover_id": 6,
+          "full_name": "Panoramic Camera"
+        },
+        {
+          "id": 62,
+          "name": "MINITES",
+          "rover_id": 6,
+          "full_name": "Miniature Thermal Emission Spectrometer (Mini-TES)"
+        }
+      ]
+    }
+  ]
+}

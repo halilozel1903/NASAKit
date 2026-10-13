@@ -1,0 +1,85 @@
+{
+  "collection": {
+    "version": "1.0",
+    "href": "https://images-api.nasa.gov/search?q=apollo%2011&media_type=image",
+    "items": [
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "title": "Sample Apollo 11 Image",
+            "nasa_id": "sample-apollo-0001",
+            "date_created": "1969-07-20T00:00:00Z",
+            "media_type": "image",
+            "keywords": [
+              "APOLLO 11",
+              "MOON"
+            ],
+            "description": "A sample <b>description</b> &amp; its HTML.<br>Second line.",
+            "photographer": "Sample Photographer"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~thumb.jpg",
+            "rel": "preview",
+            "render": "image",
+            "width": 640,
+            "height": 480,
+            "size": 123456
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample apollo 0002/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "title": "Sample Image With Spaces In Its Id",
+            "nasa_id": "sample apollo 0002",
+            "date_created": "1969-07-16T00:00:00.000Z",
+            "media_type": "image",
+            "keywords": [
+              "Apollo 11, Saturn V"
+            ],
+            "description": "A sample description."
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/sample apollo 0002/sample apollo 0002~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/audio/sample-audio-0003/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "title": "Sample Audio",
+            "nasa_id": "sample-audio-0003",
+            "date_created": "2019-07-20T00:00:00Z",
+            "media_type": "audio",
+            "keywords": [
+              "Apollo 11"
+            ],
+            "description": "A sample audio item."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "total_hits": 336
+    },
+    "links": [
+      {
+        "rel": "next",
+        "prompt": "Next",
+        "href": "https://images-api.nasa.gov/search?q=apollo+11&media_type=image&page=2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "collection": {
+    "version": "1.0",
+    "href": "https://images-api.nasa.gov/asset/sample-apollo-0001",
+    "items": [
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~orig.tif"
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~orig.jpg"
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~large.jpg"
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~medium.jpg"
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~small.jpg"
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/sample-apollo-0001~thumb.jpg"
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/sample-apollo-0001/metadata.json"
+      }
+    ]
+  }
+}

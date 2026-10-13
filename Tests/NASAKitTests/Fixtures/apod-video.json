@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-07",
+  "explanation": "A sample explanation of a time-lapse video of the night sky.",
+  "media_type": "video",
+  "service_version": "v1",
+  "thumbnail_url": "https://img.youtube.com/vi/abcDEF12345/0.jpg",
+  "title": "A Sample Night Sky Time-Lapse",
+  "url": "https://www.youtube.com/embed/abcDEF12345?rel=0"
+}

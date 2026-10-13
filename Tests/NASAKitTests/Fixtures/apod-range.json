@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2026-10-06",
+    "explanation": "A sample interactive entry without a media URL.",
+    "media_type": "other",
+    "service_version": "v1",
+    "title": "A Sample Interactive Page"
+  },
+  {
+    "date": "2026-10-07",
+    "explanation": "A sample explanation of a time-lapse video of the night sky.",
+    "media_type": "video",
+    "service_version": "v1",
+    "thumbnail_url": "https://img.youtube.com/vi/abcDEF12345/0.jpg",
+    "title": "A Sample Night Sky Time-Lapse",
+    "url": "https://www.youtube.com/embed/abcDEF12345?rel=0"
+  },
+  {
+    "copyright": "\nJane Rivera\n",
+    "date": "2026-10-08",
+    "explanation": "A sample explanation of a spiral galaxy seen through a backyard telescope. The fixture keeps the shape of an APOD answer.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2610/SampleGalaxy_Rivera_4000.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Sample Spiral Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2610/SampleGalaxy_Rivera_1080.jpg"
+  }
+]
